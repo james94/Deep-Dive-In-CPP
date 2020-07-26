@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//Checks if a person is eligible for offer
 void Eligible(int age);
 
 int main() {
