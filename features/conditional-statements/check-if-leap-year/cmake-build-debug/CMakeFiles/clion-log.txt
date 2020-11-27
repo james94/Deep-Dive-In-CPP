@@ -1,0 +1,31 @@
+"C:\Program Files\JetBrains\CLion 2020.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\james\Development\GitHub\james94\Deep-Dive-In-CPP\features\conditional-statements\check-if-leap-year
+-- The C compiler identification is MSVC 19.27.29112.0
+-- The CXX compiler identification is MSVC 19.27.29112.0
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2020.2.5/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/james/Development/GitHub/james94/Deep-Dive-In-CPP/features/conditional-statements/check-if-leap-year/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):nmake /nologo cmTC_edc8e\fast && NMAKE : fatal error U1073: don't know how to make 'cmTC_edc8e\fast'
+    Stop.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/james/Development/GitHub/james94/Deep-Dive-In-CPP/features/conditional-statements/check-if-leap-year/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/james/Development/GitHub/james94/Deep-Dive-In-CPP/features/conditional-statements/check-if-leap-year/cmake-build-debug/CMakeFiles/CMakeError.log".

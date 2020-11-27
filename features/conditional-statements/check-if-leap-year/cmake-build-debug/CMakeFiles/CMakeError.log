@@ -1,0 +1,24 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/james/Development/GitHub/james94/Deep-Dive-In-CPP/features/conditional-statements/check-if-leap-year/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_e8820\fast && NMAKE : fatal error U1073: don't know how to make 'cmTC_e8820\fast'
+Stop.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/james/Development/GitHub/james94/Deep-Dive-In-CPP/features/conditional-statements/check-if-leap-year/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_2c681\fast && NMAKE : fatal error U1073: don't know how to make 'cmTC_2c681\fast'
+Stop.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/james/Development/GitHub/james94/Deep-Dive-In-CPP/features/conditional-statements/check-if-leap-year/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_edc8e\fast && NMAKE : fatal error U1073: don't know how to make 'cmTC_edc8e\fast'
+Stop.
+
+
+
