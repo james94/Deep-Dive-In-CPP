@@ -37,3 +37,22 @@ Basics to Advanced C++ Concepts, Object-Oriented Programming, Exception Handling
 
 ## Conditional Statements
 
+- **Coding Exercise 8 (Completed):** [Finding Max of 2 Numbers](./features/conditional-statements/max/main.cpp)
+- **Coding Exercise 9 (Completed):** [Number is Positive or Negative](./features/conditional-statements/sign/main.cpp)
+- **Coding Exercise 10 (Completed):** [Number is Odd or Even](./features/conditional-statements/odd-even/main.cpp)
+- [Is RollNo Valid?](./features/conditional-statements/rollno-valid/main.cpp)
+- [Is Division Valid?](./features/conditional-statements/division-valid/main.cpp)
+- **Coding Exercise 11 (Completed):** [Check If Working Hours](./features/conditional-statements/check-is-working/main.cpp)
+- **Coding Exercise 12 (Completed):** [Check Age of a Person](./features/conditional-statements/check-age/main.cpp)
+- **Coding Exercise 13 (Completed):** [Check if Person is Eligible for an Offer](./features/conditional-statements/eligible/main.cpp)
+- **Coding Exercise 14 (Completed):** [Find Maximum of 3 numbers](./features/conditional-statements/find-max-of-3-num/main.cpp)
+- **Coding Exercise 15 (Completed):** [Find Nature of Quadratic Roots](./features/conditional-statements/nature-quadratic-roots/main.cpp)
+- **Coding Exercise 16 (Completed):** [Display Grades for Student Marks](./features/conditional-statements/display-grade-marks/main.cpp)
+- **Coding Exercise 17 (Completed):** [Calculate Discounted Bill Amount](./features/conditional-statements/discount-bill/main.cpp)
+- **Coding Exercise 18 and 21 (Completed):** [Display Day Name](./features/conditional-statements/display-day-name/main.cpp)
+    - This example shows how to check the day using if, else if and else and alternatively, it does this using switch case statements too. Then once the day is found, it displays the name.
+- **Coding Exercise 19 (Completed):** [Display Month Name](./features/conditional-statements/display-month-name/main.cpp)
+- **Coding Exercise 20 (Completed):** [Display Digit in Words](./features/conditional-statements/display/main.cpp)
+- **Coding Exercise 22 (Completed):** [Arithmetic Operations Using Switch](./features/conditional-statements/arithmetic-operations-menu/main.cpp)
+- **Student Exercise #4 (Completed):** [Check if leap year](./features/conditional-statements/check-if-leap-year/main.cpp)
+    - There was a student exercise #3 on finding the discounted bill amount, but that was very similar to coding exercise 17, so I did not include it here.
