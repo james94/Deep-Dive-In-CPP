@@ -13,6 +13,7 @@ cmake ../
 make
 ~~~
 
+
 ## Run a C++ Example Program (Triangle Area)
 
 ~~~bash
@@ -96,9 +97,16 @@ The expected output for the triangle area program is the following due to hardco
 
 ## Loops
 
-- [Demo Loops: While, Do While, For](./features/loops/demo-loops)
-- [Multiplication Table Program](./features/loops/multiplication-table)
-- [Sum of Natural Numbers Program](./features/loops/sum-natural-numbers)
-- [Factorial of a Number Program](./features/loops/factorial-of-number)
-- [Factors of a Number Program](./features/loops/factors-of-number)
-- [Perfect Number Program](./features/loops/perfect-number)
+- [Demo Loops: While, Do While, For](./features/loops/demo-loops/main.cpp)
+- [Multiplication Table Program](./features/loops/multiplication-table/main.cpp)
+- [Sum of Natural Numbers Program](./features/loops/sum-natural-numbers/main.cpp)
+- [Factorial of a Number Program](./features/loops/factorial-of-number/main.cpp)
+- [Factors of a Number Program](./features/loops/factors-of-number/main.cpp)
+- [Perfect Number Program](./features/loops/perfect-number/main.cpp)
+- [Find Prime Number](./features/loops/find-prime-number/main.cpp)
+- [Display Digits of a Number in Reverse](./features/loops/display-digits-of-number-in-reverse/main.cpp)
+- [Check for Armstrong Nuumber](./features/loops/armstrong-number/main.cpp)
+- [Reverse a Number](./features/loops/reverse-a-number/main.cpp)
+- [Check if a Number is a Palindrome](./features/loops/palindrome-number/main.cpp)
+- [Display Number Digits as Words](./features/loops/display-number-digits-as-words/main.cpp)
+- [Find GCD of 2 Numbers](./features/loops/find-gcd-of-2-numbers/main.cpp)

@@ -138,30 +138,22 @@ add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/perfect-number")
 ##
 
 # Find Prime Number
-# add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/find-prime-number")
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/find-prime-number")
 
-# Sum of First N Natural Numbers
-# add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/sum-first-n-natural-numbers")
-
-# Demo For Loops
-# add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/demo-for-loops")
-
-# Display Digits of a Number
-# add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/")
+# Display Digits of a Number in Reverse
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/display-digits-of-number-in-reverse")
 
 # Check for Armstrong Nuumber
-# add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/")
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/armstrong-number")
 
 # Reverse a Number
-# add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/")
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/reverse-a-number")
 
 # Check if a Number is a Palindrome
-# add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/")
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/palindrome-number")
 
-# Demo While Loops
-# add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/")
+# Display Number Digits as Words
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/display-number-digits-as-words")
 
 # Find GCD of 2 Numbers
-# add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/")
-
-
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/find-gcd-of-2-numbers")
