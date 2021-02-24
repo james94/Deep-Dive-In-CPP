@@ -11,9 +11,31 @@ mkdir build
 cd build
 cmake ../
 make
+~~~
 
-# You should be able to see folders of each example program. Find the binary you want to run and execute it via "./"
+## Run a C++ Example Program (Triangle Area)
+
+~~~bash
+# cd into features/ and You should be able to see folders of each example program
+cd features/
+
+# ls current features/ directory should show basics/ and so forth
 ls
+
+# for instance, if you want to run one of the basics C++ example programs, you can
+# cd into that particular directory. NOTE: the binary executable has an "_" in it
+cd basics/math/geometry/area-perimeter/triangle-area
+./triangle_area
+
+# Alternatively, if you know the path to binary, then you can exeute it from features/
+./basics/math/geometry/area-perimeter/triangle-area/triangle_area
+~~~
+
+The expected output for the triangle area program is the following due to hardcoded sides:
+
+~~~bash
+# Expected output for triangle area with hardcoded sides is
+17.5
 ~~~
 
 ## C++ Basics

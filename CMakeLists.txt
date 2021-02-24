@@ -21,7 +21,7 @@ add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/basics/math/precalculus/s
 add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/basics/math/geometry/area-perimeter/circle-area")
 
 # Quadratic Formula Program with Two Root Results
-add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/basics/math/algebra/quadratic-eqns-fun/quadratic-formula")
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/basics/math/algebra/quadratic-eqs-fun/quadratic-formula")
 
 # Calculate Displacement Program
 add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/basics/physics/one-dimensional-motion/kinematic-formulas/displacement")
@@ -53,12 +53,12 @@ add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/basics/enum-typedef")
 # Net Salary Program
 add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/basics/life-skills/personal-finance/income-benefits/paycheck/net-salary")
 
-# Max Program
-add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/basics/life-skills/personal-finance/income-benefits/paycheck/net-salary")
-
 ###################
 # Conditional Statement Examples
 ###################
+
+# Find Max of 2 Numbers Program
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/conditional-statements/max")
 
 # Number is Pos or Neg Program
 add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/conditional-statements/sign")
