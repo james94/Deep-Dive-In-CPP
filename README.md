@@ -110,3 +110,13 @@ The expected output for the triangle area program is the following due to hardco
 - [Check if a Number is a Palindrome](./features/loops/palindrome-number/main.cpp)
 - [Display Number Digits as Words](./features/loops/display-number-digits-as-words/main.cpp)
 - [Find GCD of 2 Numbers](./features/loops/find-gcd-of-2-numbers/main.cpp)
+
+## Arrays
+
+- [Array Declarations and C++11 for each loop for iteration](./features/arrays/array-declarations/main.cpp)
+- [Sum of Array Elements](./features/arrays/sum-of-array-elements/main.cpp)
+- [Find Max Element in Array](./features/arrays/find-max-element-in-array/main.cpp)
+- [Find Min Element in Array](./features/arrays/find-min-element-in-array/main.cpp)
+- [Linear Search for key element in unsorted array](./features/arrays/linear-search/main.cpp)
+- [Binary Search for key element in sorted array](./features/arrays/binary-search/main.cpp)
+- [Count the number of positive and negative numbers in array](./features/arrays/count-pos-neg-numbers-in-array/main.cpp)

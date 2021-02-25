@@ -133,10 +133,6 @@ add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/factors-of-number")
 # Perfect Number Program
 add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/perfect-number")
 
-##
-# Programs that need to be completed are the following for loop examples
-##
-
 # Find Prime Number
 add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/find-prime-number")
 
@@ -157,3 +153,28 @@ add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/display-number-digi
 
 # Find GCD of 2 Numbers
 add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/loops/find-gcd-of-2-numbers")
+
+###################
+# Array Examples
+###################
+
+# Array Declarations and C++11 for each loop for iteration
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/array-declarations")
+
+# Sum of Array Elements
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/sum-of-array-elements")
+
+# Find Max Element in Array
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/find-max-element-in-array")
+
+# Find Min Element in Array
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/find-min-element-in-array")
+
+# Linear Search for key element in unsorted array
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/linear-search")
+
+# Binary Search for key element in sorted array
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/binary-search")
+
+# Count the number of positive and negative numbers in array
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/count-pos-neg-numbers-in-array")
