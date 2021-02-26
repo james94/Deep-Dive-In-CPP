@@ -13,6 +13,34 @@ cmake ../
 make
 ~~~
 
+## Run C++ Draw Pattern 3 Example Program
+
+~~~bash
+cd features/
+cd arrays/draw-pattern3/
+
+./DrawPattern3
+~~~
+
+The expected output:
+
+~~~bash
+[james@localhost draw-pattern3]$ ./DrawPattern3 
+Drew Lower Rightside of Triangle with C++:
+
+            C++ 
+        C++ C++ 
+    C++ C++ C++ 
+C++ C++ C++ C++ 
+
+Drew Upper Leftside of Triangle with Py:
+
+Py Py Py Py 
+Py Py Py   
+Py Py     
+Py
+~~~
+
 
 ## Run a C++ Example Program (Triangle Area)
 
@@ -120,3 +148,10 @@ The expected output for the triangle area program is the following due to hardco
 - [Linear Search for key element in unsorted array](./features/arrays/linear-search/main.cpp)
 - [Binary Search for key element in sorted array](./features/arrays/binary-search/main.cpp)
 - [Count the number of positive and negative numbers in array](./features/arrays/count-pos-neg-numbers-in-array/main.cpp)
+- [Nested loop for iterating a multidimensional array](./features/arrays/nested-loop-for-multidimensional-array/main.cpp)
+
+- [Draw Pattern 1: Create a 4 x 4 grid with a counter increments in each cell](./features/arrays/draw-pattern1/main.cpp)
+
+- [Draw Pattern 2: Draw a Lower Triangle of i; Draw a Upper Triangle of j](./features/arrays/draw-pattern2/main.cpp)
+
+- [Draw Pattern 3: Draw a Lower Rightside of Triangle with C++; Draw a Upper Leftside of Triangle with Py](./features/arrays/draw-pattern3/main.cpp)

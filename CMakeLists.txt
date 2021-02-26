@@ -178,3 +178,16 @@ add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/binary-search")
 
 # Count the number of positive and negative numbers in array
 add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/count-pos-neg-numbers-in-array")
+
+# Nested loop for iterating a multidimensional array
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/nested-loop-for-multidimensional-array")
+
+# Draw Pattern 1: Create a 4 x 4 grid with a counter increments in each cell
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/draw-pattern1")
+
+# Draw Pattern 2: Draw a Lower Triangle of i; Draw a Upper Triangle of j
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/draw-pattern2")
+
+# Draw Pattern 3: Draw a Lower Rightside of Triangle with CPP; Draw a Upper Leftside of Triangle with Py
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/features/arrays/draw-pattern3")
+
